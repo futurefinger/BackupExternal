@@ -1,0 +1,13 @@
+# Logs and temporary files
+*.log
+logs/
+Backup_Logs/
+
+# Windows desktop and system files
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+System Volume Information/
+
+# Local cache
+*.tmp

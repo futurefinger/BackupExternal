@@ -1,0 +1,22 @@
+{
+  "SourcePath": "E:\\",
+  "DestinationFolderName": "Rakesh_Malik_Cyber_PC_Backup",
+  "ExternalVolumeLabel": "My Passport",
+  "ScheduleTimes": [
+    "17:30",
+    "19:00"
+  ],
+  "SyncAtLogon": true,
+  "CatchUpMissedRuns": true,
+  "EnableVoiceAlerts": true,
+  "EnablePopups": true,
+  "RobocopyThreads": 16,
+  "ExcludedDirectories": [
+    "$RECYCLE.BIN",
+    "System Volume Information",
+    "Backup_Logs"
+  ],
+  "ExcludedFiles": [
+    "desktop.ini"
+  ]
+}
